@@ -58,6 +58,17 @@
               {% endfor %}
             </ul>
             {% endif %}
+            {% if session.panel %}
+            <ul class="session-list">
+              {% for panelist in session.panel %}
+              <li>
+                <h4 class="talk-title">{{ panelist.name }}</h4>
+                <p class="course-meta"
+                style="line-height:18px;">{{ panelist.affiliation }}</p>
+              </li>
+              {% endfor %}
+            </ul>
+            {% endif %}
           </div>
         </th>
         <th></th>

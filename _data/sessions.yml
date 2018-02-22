@@ -40,7 +40,13 @@ day1:
   title: Lunch
 - end: 2:30 PM
   start: 1:30 PM
-  talks: []
+  panel: 
+  - name: "Leonard Adleman"
+    affiliation: "Distinguished Professor of Computer Science, USC Viterbi School of Engineering"
+  - name: "Ninou Sarwono"
+    affiliation: "Emerging Technology Lead, Capital Group"
+  - name: "Nick Vyas"
+    affiliation: "Executive Director, Center for Global Supply Chain Management, USC Marshall School of Business"
   title: "Panel: Future of Blockchain"
 - end: 3:00 PM
   start: 2:30 PM
