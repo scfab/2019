@@ -32,6 +32,10 @@
           {% if session.location %}
             <h4 style="margin-top:4px;"><font style="color:black;">Location: {{session.location}}</font></h4>
           {% endif %}
+          {% if session.remarks%}
+            <h4 style="margin-top:4px;"><font
+                    style="color:black;">{{session.remarks}}</font></h4>
+          {% endif %}
           <div class="details">
             {% if session.talks %}
             <ul class="session-list">

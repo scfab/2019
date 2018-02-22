@@ -1,549 +1,81 @@
-day0:
-- end: 8:30 PM
-  start: 6:30 PM
-  talks:
-  - authors:
-  title: Welcome Reception
 day1:
-- end: 8:45 AM
-  start: 7:30 AM
-  talks: []
-  title: Breakfast
-  location : Salon D and E of the Grand Ballroom
-- end: 9:00 AM
-  start: 8:45 AM
-  talks: []
-  title: Introductory remarks
-- end: 10:20 AM
+- end: 9:15 AM
   start: 9:00 AM
-  talks:
-  - authors:
-    - Anton Burtsev (University of California, Irvine)
-    - David Johnson
-    - Josh Kunz
-    - Eric Eide
-    - Jacobus Van der Merwe (University of Utah)
-    title: 'CapNet: Security and Least Authority in a Capability-Enabled Cloud'
-    url: 'https://dl.acm.org/authorize?N46858'
-  - authors:
-    - Savvas Savvides (Purdue University)
-    - Julian Stephen (IBM Research)
-    - Masoud Saieda Ardekani (Purdue University)
-    - Vinaitheerthan Sundaram (SensorHound, Inc)
-    - Patrick Eugster (TU Darmstadt)
-    title: 'Secure Data Types: A Simple Abstraction for Confidentiality-Preserving Data Analytics'
-    url: 'https://dl.acm.org/authorize?N46885'
-  - authors:
-    - Thomas Pasquier
-    - Xueyuan Han
-    - Mark Goldstein
-    - Margo Seltzer (Harvard University)
-    - Thomas Moyer (MIT Lincoln Laboratory)
-    - David Eyers (University of Otago)
-    - Jean Bacon (University of Cambridge)
-    title: 'Practical Whole-System Provenance Capture'
-    url: 'https://dl.acm.org/authorize?N46879'
-  - authors:
-    - Changzhen Wei (Intel Asia-Pacific Research & Development Ltd.)
-    - Jian Li (Shanghai Jiao Tong University)
-    - Weigang Li
-    - Ping Yu (Intel Asia-Pacific Research & Development Ltd.)
-    - Haibing Guan (Shanghai Jiao Tong University)
-    title: 'STYX: A Trusted and Accelerated Hierarchical SSL Key Management and Distribution System for Cloud Based CDN Application'
-    url: 'https://dl.acm.org/authorize?N46854'
-  title: 'Session 1 (Securing the Cloud)'
-  chair: 'Marcos Aguilera'
-- end: 10:50 AM
-  start: 10:20 AM
   talks: []
-  title: Break
-- end: 12:10 PM
-  start: 10:50 AM
+  title: Introductions 
+- end: 10:15 AM
+  start: 9:15 AM
+  talks: []
+  title: Keynote
+- end: 10:45 AM
+  start: 10:15 AM
+  talks: []
+  title: Coffee Break
+- end: 12:15 PM
+  start: 10:45 AM
   talks:
   - authors:
-    - Cheng Wang
-    - Xusheng Chen
-    - Jianyu Jiang
-    - Ning Yi
-    - Heming Cui (The University of Hong Kong)
-    title: 'APUS: Fast and Scalable PAXOS on RDMA'
-    url: 'https://dl.acm.org/authorize?N46855'
+    - Philip Shelper (LoyaltyX)
+    - Andrew Lowe (PicoLabs)
+    - Salil S. Kanhere (UNSW Sydney)
+    title: 'Experiences from the Field: Unify Rewards - A Cryptocurrency Loyalty Program'
   - authors:
-    - Hua Fan
-    - Wojciech Golab (University of Waterloo)
-    - Charles B. Morrey III (unaffiliated)
-    title: 'ALOHA-KV: High Performance Read-only and Write-only Distributed Transactions'
-    url: 'https://dl.acm.org/authorize?N46881'
+    - Mads Frederik Madsen (IT University of Copenhagen)
+    - Mikkel Gaub (IT University of Copenhagen)
+    - Tróndur Høgnason (IT University of Copenhagen)
+    - Malthe Ettrup Kirkbro (IT University of Copenhagen)
+    - Tijs Slaats (University of Copenhagen)
+    - Søren Debois (IT University of Copenhagen)
+    title: 'Collaboration among Adversaries:  Distributed Workflow Execution on a Blockchain'
   - authors:
-    - Jake Wires
-    - Pradeep Ganesan
-    - Andrew Warfield (Coho Data)
-    title: 'Sketches of Space: Ownership Accounting for Shared Storage'
-    url: 'https://dl.acm.org/authorize?N46889'
-  - authors:
-    - Yaochen Hu
-    - Yushi Wang
-    - Bang Liu
-    - Di Niu (University of Alberta)
-    - Cheng Huang (Microsoft Research Redmond)
-    title: 'Latency Reduction and Load Balancing in Coded Storage Systems'
-    url: 'https://dl.acm.org/authorize?N46876'
-  title: Session 2 (The Stateful Cloud)
-  chair: 'Irina Calciu'
+    - Tamraparni Dasu (AT&T Labs-Research)
+    - Yaron Kanza (AT&T Labs-Research)
+    - Divesh Srivastava (AT&T Labs-Research)
+    title: 'Unchain Your Blockchain'
+  title: 'Technical Session 1'
+  remarks: 'Each presentation is 25 minutes long + 5 minute for questions'
 - end: 1:30 PM
-  start: 12:10 PM
+  start: 12:15 PM
   talks: []
   title: Lunch
-  location : Salon D and E of the Grand Ballroom
 - end: 2:30 PM
   start: 1:30 PM
-  talks:
-  - authors:
-    - 'Raghu Ramakrishnan, Microsoft'
-  title: 'Keynote 1' 
-- end: 2:40 PM
+  talks: []
+  title: "Panel: Future of Blockchain"
+- end: 3:00 PM
   start: 2:30 PM
   talks: []
-  title: Mini-break
-- end: 4:00 PM
-  start: 2:40 PM
+  title: "Coffee Break"
+- end: 5:00 PM
+  start: 3:30 PM
   talks:
   - authors:
-    - Timothy Zhu (Carnegie Mellon University)
-    - Michael A. Kozuch (Intel Labs)
-    - Mor Harchol-Balter (Carnegie Mellon University)
-    title: 'WorkloadCompactor: Reducing datacenter cost while providing tail latency SLO guarantees'
-    url: 'https://dl.acm.org/authorize?N46884'
+    - Rachid Guerraoui (EPFL)
+    - Matej Pavlovic (EPFL)
+    - Dragos-Adrian Seredinschi (EPFL)
+    title: 'Blockchain Protocols: The Adversary is in the Details'
   - authors:
-    - Yuqing Zhu
-    - Jianxun Liu
-    - Mengying Guo
-    - Yungang Bao (Institute of Computing Technology, Chinese Academy of Sciences)
-    - Kunpeng Song
-    - Zhuoyue Liu (Huawei)
-    title: 'BestConfig: Tapping the Performance Potential of Systems via Automatic Configuration Tuning'
-    url: 'https://dl.acm.org/authorize?N46864'
+    - Percival Lucena (IBM Research)
+    - Alécio P. D. Binotto (IBM Research)
+    - Fernanda da Silva Momo (UFRGS)
+    - Henry Kim (York University)
+    title: 'A Case Study for Grain Quality Assurance Tracking based on a Blockchain Business Network'
   - authors:
-    - Pawel Janus
-    - Krzysztof Rzadca (University of Warsaw, Poland)
-    title: 'SLO-aware Colocation of Data Center Tasks Based on Instantaneous Processor Requirements'
-    url: 'https://dl.acm.org/authorize?N46868'
-  - authors:
-    - Mohammad Shahrad (Princeton University)
-    - Cristian Klein (Umeå University)
-    - Liang Zheng
-    - Mung Chiang (Princeton University)
-    - Erik Elmroth (Umeå University)
-    - David Wentzlaff (Princeton University)
-    title: 'Incentivizing Self-Capping to Increase Cloud Utilization'
-    url: 'https://dl.acm.org/authorize?N46742'
-  title: Session 3 (Managing the Cloud I)
-  chair: 'Lakshmi Ganesh'
-- end: 4:30 PM
-  start: 4:00 PM
+    - Yize Chen (University of Washington)
+    - Quanlai Li (University of California, Berkeley)
+    - Hao Wang (University of Washington)
+    title: 'Towards Trusted Social Networks with Blockchain Technology'
+  title: 'Technical Session 2'
+  remarks: 'Each presentation is 25 minutes long + 5 minute for questions'
+- end: 5:30 PM
+  start: 5:00 PM
   talks: []
-  title: Break  
-- end: 5:50 PM
-  start: 4:30 PM
-  talks:
-  - authors:
-    - Supreeth Shastri
-    - David Irwin (University of Massachusetts Amherst)
-    title: 'HotSpot: Automated Server Hopping in Cloud Spot Markets'
-    url: 'https://dl.acm.org/authorize?N46886'
-  - authors:
-    - Rebecca Smith
-    - Scott Rixner (Rice University)
-    title: 'A Policy-Based System for Dynamic Scaling of Virtual Machine Memory Reservations'
-    url: 'https://dl.acm.org/authorize?N46860'
-  - authors:
-    - Fabien Hermenier (Nutanix inc.)
-    - Ludovic Henrio (Université Côte d’Azur, CNRS, I3S)
-    title: 'Trustable Virtual Machine Scheduling in a Cloud'
-    url: 'https://dl.acm.org/authorize?N46749'
-  - authors:
-    - Lalith Suresh (VMWare Research)
-    - Peter Bodik
-    - Ishai Menache (Microsoft Research)
-    - Marco Canini (KAUST)
-    - Florin Ciucu (University of Warwick)
-    title: 'Distributed Resource Management across Process Boundaries'
-    url: 'https://dl.acm.org/authorize?N46895'
-  title: Session 4 (Managing the Cloud II)
-  chair: 'Vijayan Prabhakaran'
+  title: Lightning Round Talks
 - end: 6:00 PM
-  start: 5:50 PM
+  start: 5:30 PM
   talks: []
-  title: Mini-break  
-- end: 8:00 PM
-  start: 6:00 PM
-  talks: []
-  title: Poster session I
-  url: "poster-schedule.html"
-  location: Seattle/Portland/Santa Barbara room
-  
-day2:
-- end: 9:00 AM
-  start: 7:30 AM
-  talks: []
-  title: Breakfast
-  location : Salon D and E of the Grand Ballroom
-- end: 10:00 AM
-  start: 9:00 AM
-  talks:
-  - authors:
-    - 'Anurag Gupta, Amazon Web Services'
-  title: 'Keynote 2'
-- end: 10:30 AM
-  start: 10:00 AM
-  talks: []
-  title: Break
-- end: 12:10 PM
-  start: 10:30 AM
-  talks:
-  - authors:
-    - Xingbo Wu
-    - Fan Ni
-    - Song Jiang (University of Texas, Arlington)
-    title: 'Search Lookaside Buffer: Efficient Caching for Index Data Structures'
-    url: 'https://dl.acm.org/authorize?N46740'
-  - authors:
-    - Fei Mei
-    - Qiang Cao (Huazhong University of Science and Technology)
-    - Hong Jiang (University of Texas at Arlington)
-    - Lei Tian (Tintri, Inc.)
-    title: 'LSM-tree Managed Storage for Large-scale Key-value Store'
-    url: 'https://dl.acm.org/authorize?N46859'
-  - authors:
-    - Anand Padmanabha Iyer
-    - Ion Stoica (UC Berkeley)
-    title: 'A Scalable Distributed Spatial Index for the Internet-of-Things'
-    url: 'https://dl.acm.org/authorize?N46880'
-  - authors:
-    - Juncheng Yang
-    - Reza Karimi (Emory University)
-    - Trausti Sæmundsson (CachePhysics)
-    - Avani Wildani
-    - Ymir Vigfusson (Emory University)
-    title: 'Mithril: Mining Sporadic Associations for Cache Prefetching'
-    url: 'https://dl.acm.org/authorize?N46743'
-  - authors:
-    - Conglong Li
-    - David G. Andersen (Carnegie Mellon University)
-    - Qiang Fu (Microsoft)
-    - Sameh Elnikety
-    - Yuxiong He (Microsoft Research)
-    title: 'Workload Analysis and Caching Strategies for Search Advertising Systems'	
-    url: 'https://dl.acm.org/authorize?N46851'
-  title: 'Session 5 (Indexing/Caching the Cloud)'
-  chair: 'Sid Sen'
-- end: 1:30 PM
-  start: 12:10 PM
-  talks: []
-  title: Lunch
-  location : Salon D and E of the Grand Ballroom
-- end: 2:50 PM
-  start: 1:30 PM
-  talks:
-  - authors:
-    - Yanfang Le (University of Wisconsin-Madison)
-    - Hyunseok Chang
-    - Sarit Mukherjee
-    - Limin Wang (Nokia Bell Labs)
-    - Aditya Akella
-    - Michael Swift (University of Wisconsin-Madison)
-    - T.V. Lakshman (Nokia Bell Labs)
-    title: 'UNO: Unifying Host and Smart NIC Offload for Flexible Packet Processing'
-    url: 'https://dl.acm.org/authorize?N46887'
-  - authors:
-    - Diego Lugones
-    - Jordi Arjona Aroca
-    - Yue Jin
-    - Alessandra Sala
-    - Volker Hilt (Nokia Bell Labs)
-    title: 'AidOps: A Data-Driven Provisioning of High-Availability Services in Cloud'
-    url: 'https://dl.acm.org/authorize?N46874'
-  - authors:
-    - Kenichi Yasukata
-    - Felipe Huici (NEC Laboratories Europe)
-    - Vincenzo Maffione
-    - Giuseppe Lettieri (University of Pisa)
-    -  Michio Honda (NEC Laboratories Europe)
-    title: 'HyperNF: Building a High Performance, High Utilization and Fair NFV Platform'
-    url: 'https://dl.acm.org/authorize?N46850'
-  - authors:
-    - Yutaro Hayakawa (Keio University)
-    - Lars Eggert (NetApp)
-    - Michio Honda (NEC Laboratories Europe)
-    - Douglas Santry (NetApp)
-    title: 'Prism: A Proxy Architecture for Datacenter Networks [VISION]'
-    url: 'https://dl.acm.org/authorize?N46852'
-  title: Session 6 (Networking the Cloud)
-  chair: 'Han Wang'
-- end: 3:00 PM
-  start: 2:50 PM
-  talks: []
-  title: Mini-break
-- end: 4:00 PM
-  start: 3:00 PM
-  talks:
-  - authors:
-    - Qizhen Zhang (University of Pennsylvania)
-    - Hongzhi Chen (Chinese University of Hong Kong)
-    - Da Yan (University of Alabama at Birmingham)
-    - James Cheng (Chinese University of Hong Kong)
-    - Boon Thau Loo (University of Pennsylvania)
-    - Purushotham Bangalore (University of Alabama at Birmingham)
-    title: 'Architectural Implications on the Performance and Cost of Graph Analytics Systems'
-    url: 'https://dl.acm.org/authorize?N46741'
-  - authors:
-    - Marco Serafini
-    - Gianmarco De Francisci Morales
-    - Georgos Siganos (Qatar Computing Research Institute)
-    title: 'QFrag: Distributed Graph Search via Subgraph Isomorphism'
-    url: 'https://dl.acm.org/authorize?N46865'
-  - authors:
-    - Yuanyuan Sun, Yu Hua (Huazhong University of Science and Technology)
-    - Xue Liu (McGill University)
-    - Shunde Cao
-    - Pengfei Zuo (Huazhong University of Science and Technology)
-    title: 'DLSH: A Distribution-aware LSH Scheme for Approximate Nearest Neighbor Query in Cloud Computing'
-    url: 'https://dl.acm.org/authorize?N46867'
-  title: Session 7 (Your friendly neighborhood Cloud)
-  chair: 'Haryadi Gunawi'
-- end: 4:30 PM
-  start: 4:00 PM
-  talks: []
-  title: Break
-- end: 5:50 PM
-  start: 4:30 PM
-  talks:
-  - authors:
-    - Riza O. Suminto
-    - Cesar A. Stuardo
-    - Alexandra Clark
-    - Huan Ke
-    - Tanakorn Leesatapornwongsa
-    - Bo Fu (University of Chicago)
-    - Daniar H. Kurniawan (Bandung Institute of Technology)
-    - Vincentius Martin (Surya University)
-    - Uma Maheswara Rao G. (Intel Corporation)
-    - Haryadi S. Gunawi (University of Chicago)
-    title: 'PBSE: A Robust Path-Based Speculative Execution for Degraded-Network Tail Tolerance in Data-Parallel Frameworks'
-    url: 'https://dl.acm.org/authorize?N46861'
-  - authors:
-    - Anil Shanbhag (MIT)
-    - Alekh Jindal (Microsoft)
-    - Sam Madden (MIT)
-    - Jorge Quiane (QCRI)
-    - Aaron Elmore (University of Chicago)
-    title: 'A Robust Partitioning Scheme for Ad-Hoc Query Workloads'
-    url: 'https://dl.acm.org/authorize?N46866'
-  - authors:
-    - Muhammad Ali Gulzar
-    - Matteo Interlandi (UCLA)
-    - Xueyuan Han (Harvard University)
-    - Mingda Li
-    - Tyson Condie
-    - Miryung Kim (UCLA)
-    title: 'Automated Debugging in Data-Intensive Scalable Computing'
-    url: 'https://dl.acm.org/authorize?N46888'
-  - authors:
-    - Eric Jonas
-    - Qifan Pu
-    - Shivaram Venkataraman
-    - Ion Stoica
-    - Benjamin Recht (UC Berkeley)
-    title: 'Occupy the Cloud: Distributed Computing for the 99% [VISION]'
-    url: 'https://dl.acm.org/authorize?N46872'
-    bestvision: true
-  title: Session 8 (Data Processing in the Cloud)
-  chair: 'Peter Alvaro'
-- end: 6:00 PM
-  start: 5:50 PM
-  talks: []
-  title: Mini-break  
-- end: 7:30 PM
-  start: 6:00 PM
-  talks: []
-  title: Poster session II  
-  url: "poster-schedule.html"
-  location: Seattle/Portland/Santa Barbara room
+  title: Poster Session
 - end: 9:00 PM
-  start: 7:30 PM
+  start: 6:00 PM
   talks: []
-  title: Conference Banquet
-  location: Salon A-C of the Grand Ballroom
-
-day3:
-- end: 9:00 AM
-  start: 7:30 AM
-  talks: []
-  title: Breakfast
-  location : Salon D and E of the Grand Ballroom
-- end: 10:00 AM
-  start: 9:00 AM
-  talks:
-  - authors:
-    - 'Magda Balazinska, University of Washington'
-  title: 'Keynote 3'
-- end: 10:30 AM
-  start: 10:00 AM
-  talks: []
-  title: Break
-- end: 12:10 PM
-  start: 10:30 AM
-  talks:
-  - authors:
-    - Yizhou Shan
-    - Shin-Yeh Tsai
-    - Yiying Zhang (Purdue University)
-    title: 'Distributed Shared Persistent Memory'
-    url: 'https://dl.acm.org/authorize?N46863'
-  - authors:
-    - Yusuke Suzuki (Keio University)
-    - Hiroshi Yamada (TUAT)
-    - Shinpei Kato (University of Tokyo)
-    - Kenji Kono (Keio University)
-    title: 'GLoop: An Event-driven Runtime for Consolidating GPGPU Applications'
-    url: 'https://dl.acm.org/authorize?N46744'
-  - authors:
-    - Marcos K. Aguilera
-    - Nadav Amit
-    - Irina Calciu
-    - Xavier Deguillard
-    - Jayneel Gandhi
-    - Pratap Subrahmanyam
-    - Lalith Suresh
-    - Kiran Tati
-    - Rajesh Venkatasubramanian
-    - Michael Wei (VMware)
-    title: 'Remote memory in the age of fast networks [VISION]'
-    url: 'https://dl.acm.org/authorize?N46857'
-  - authors:
-    - Kun Suo
-    - Yong Zhao
-    - Jia Rao (The University of Texas at Arlington)
-    - Luwei Cheng (Facebook)
-    - Xiaobo Zhou (The University of Colorado, Colorado Springs)
-    - Francis C. M. Lau (The University of Hong Kong)
-    title: 'Preserving I/O Prioritization in Virtualized OSes'
-    url: 'https://dl.acm.org/authorize?N46869'
-  - authors:
-    - Viktor Rosenfeld (TU Berlin)
-    - Rene Mueller
-    - Pinar Tozun
-    - Fatma Ozcan (IBM Research Almaden)
-    title: 'Processing Java UDFs in a C++ environment'
-    url: 'https://dl.acm.org/authorize?N46870'
-  title: 'Session 9 (The Cloud is the OS is the Cloud)'
-  chair: 'Chris Douglas'
-- end: 1:30 PM
-  start: 12:10 PM
-  talks: []
-  title: Lunch
-  location : Salon D and E of the Grand Ballroom
-- end: 2:50 PM
-  start: 1:30 PM
-  talks:
-  - authors:
-    - Sourav Sikdar
-    - Kia Teymourian
-    - Christopher Jermaine (Rice University)
-    title: 'An Experimental Comparison of Complex Object Implementations for Big Data Systems'
-    url: 'https://dl.acm.org/authorize?N46871'
-  - authors:
-    - Meikel Poess (Oracle)
-    - Tilmann Rabl (TU Berlin)
-    - Hans-Arno Jacobsen (TU Munich)
-    title: 'Analysis of TPC-DS - the First Standard Benchmark for SQL-Based Big Data Systems'
-    url: 'https://dl.acm.org/authorize?N46882'
-  - authors:
-    - Neeraja J. Yadwadkar (University of California, Berkeley)
-    - Bharath Hariharan (Facebook AI Research)
-    - Joseph E. Gonzalez (University of California, Berkeley)
-    - Burton Smith (Microsoft Research)
-    - Randy Katz (University of California, Berkeley
-    title: 'Selecting the Best VM across Multiple Public Clouds: A Data-Driven Performance Modeling Approach'
-    url: 'https://dl.acm.org/authorize?N46873'
-  - authors:
-    - Hyunwook Baek (University of Utah)
-    - Cheng Jin (University of Minnesota)
-    - Guofei Jiang
-    - Cristian Lumezanu (NEC Labs America)
-    - Jacobus Van der Merwe (University of Utah)
-    - Ning Xia
-    - Qiang Xu (NEC Labs America)
-    title: 'Polygravity: Traffic Usage Accountability via Coarse-grained Measurements in Multi-tenant Data Centers'
-    url: 'https://dl.acm.org/authorize?N46862'
-  title: Session 10 (The Data-driven Cloud)
-  chair: 'Theo Benson'
-- end: 3:00 PM
-  start: 2:50 PM
-  talks: []
-  title: Mini-break
-- end: 4:00 PM
-  start: 3:00 PM
-  talks:
-  - authors:
-    - Jonas Traub (Technische Universität Berlin)
-    - Sebastian Breß (DFKI)
-    - Tilmann Rabl (Technische Universität Berlin)
-    - Asterios Katsifodimos (SAP Germany)
-    - Volker Markl (Technische Universität Berlin)
-    title: 'Optimized On-Demand Data Streaming from Sensor Nodes'
-    url: 'https://dl.acm.org/authorize?N46883'
-  - authors:
-    - Manos Karpathiotakis (EPFL)
-    - Avrilia Floratou (Microsoft)
-    - Fatma Ozcan (IBM Research)
-    - Anastasia Ailamaki (EPFL)
-    title: 'No Data Left Behind: Real-Time Insights from a Complex Data Ecosystem'
-    url: 'https://dl.acm.org/authorize?N46856'
-  - authors:
-    - Muhammad Bilal (Universite catholiqué de Louvain and KAUST)
-    - Marco Canini (KAUST)
-    title: 'Towards Automatic Parameter Tuning of Stream Processing Systems'
-    url: 'https://dl.acm.org/authorize?N46853'
-  title: Session 11 (Streaming the Cloud)
-  chair: 'Avrilia Floratou'
-- end: 4:30 PM
-  start: 4:00 PM
-  talks: []
-  title: Break
-- end: 5:50 PM
-  start: 4:30 PM
-  talks:
-  - authors:
-    - Zhigang Wang (Northeastern University)
-    - Lixin Gao (University of Massachusetts Amherst)
-    - Yu Gu
-    - Yubin Bao
-    - Ge Yu (Northeastern University)
-    title: 'FSP: Towards Flexible Synchronous Parallel Framework for Expectation-Maximization based Algorithms on Cloud'
-    url: 'https://dl.acm.org/authorize?N46748'
-  - authors:
-    - Haoyu Zhang
-    - Logan Stafman
-    - Andrew Or
-    -  Michael J. Freedman (Princeton University)
-    title: 'SLAQ: Quality-Driven Scheduling for Distributed Machine Learning'
-    url: 'https://dl.acm.org/authorize?N46878'
-    best: true
-  - authors:
-    - Changyeon Jo
-    - Youngsu Cho
-    - Bernhard Egger (Seoul National University)
-    title: 'A Machine Learning Approach to Live Migration Modeling'
-    url: 'https://dl.acm.org/authorize?N46875'
-  - authors:
-    - Jaeseong Im
-    - Jongyul Kim
-    - Jonguk Kim (School of Computing, KAIST)
-    - Seongwook Jin (KIWIPLUS)
-    - Seungryoul Maeng (School of Computing, KAIST)
-    title: 'On-demand Virtualization for Live Migration in Bare Metal Cloud'
-    url: 'https://dl.acm.org/authorize?N46877'
-  title: Session 12 (Learning and Migration in the Cloud)
-  chair: 'John Wilkes'	
-
+  title: Social hour
