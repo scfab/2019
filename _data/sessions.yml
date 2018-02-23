@@ -19,6 +19,7 @@ day1:
     - Andrew Lowe (PicoLabs)
     - Salil S. Kanhere (UNSW Sydney)
     title: 'Experiences from the Field: Unify Rewards - A Cryptocurrency Loyalty Program'
+    url: assets/abstracts/fab18_submission_05.txt
   - authors:
     - Mads Frederik Madsen (IT University of Copenhagen)
     - Mikkel Gaub (IT University of Copenhagen)
@@ -27,13 +28,15 @@ day1:
     - Tijs Slaats (University of Copenhagen)
     - Søren Debois (IT University of Copenhagen)
     title: 'Collaboration among Adversaries:  Distributed Workflow Execution on a Blockchain'
+    url: assets/abstracts/fab18_submission_06.txt
   - authors:
     - Tamraparni Dasu (AT&T Labs-Research)
     - Yaron Kanza (AT&T Labs-Research)
     - Divesh Srivastava (AT&T Labs-Research)
     title: 'Unchain Your Blockchain'
+    url: assets/abstracts/fab18_submission_07.txt
   title: 'Technical Session 1'
-  remarks: 'Each presentation is 25 minutes long + 5 minute for questions'
+  remarks: 'Each presentation is 25 minutes long + 5 minutes for questions'
 - end: 1:30 PM
   start: 12:15 PM
   talks: []
@@ -60,28 +63,31 @@ day1:
     - Matej Pavlovic (EPFL)
     - Dragos-Adrian Seredinschi (EPFL)
     title: 'Blockchain Protocols: The Adversary is in the Details'
+    url: assets/abstracts/fab18_submission_04.txt
   - authors:
     - Percival Lucena (IBM Research)
     - Alécio P. D. Binotto (IBM Research)
     - Fernanda da Silva Momo (UFRGS)
     - Henry Kim (York University)
     title: 'A Case Study for Grain Quality Assurance Tracking based on a Blockchain Business Network'
+    url: assets/abstracts/fab18_submission_08.txt
   - authors:
     - Yize Chen (University of Washington)
     - Quanlai Li (University of California, Berkeley)
     - Hao Wang (University of Washington)
     title: 'Towards Trusted Social Networks with Blockchain Technology'
+    url: assets/abstracts/fab18_submission_09.txt
   title: 'Technical Session 2'
-  remarks: 'Each presentation is 25 minutes long + 5 minute for questions'
+  remarks: 'Each presentation is 25 minutes long + 5 minutes for questions'
 - end: 5:30 PM
   start: 5:00 PM
   talks: []
   title: Lightning Round Talks
-- end: 6:00 PM
+- end: 7:30 PM
   start: 5:30 PM
   talks: []
-  title: Poster Session
-- end: 9:00 PM
+  title: Social hour
+- end: 7:30 PM
   start: 6:00 PM
   talks: []
-  title: Social hour
+  title: Poster Session

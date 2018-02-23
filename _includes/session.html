@@ -24,7 +24,9 @@
           {% if session.url and (showlinks or is_keynote) %}
           <a href="{{session.url}}"><h4 class="session-title">{{session.title}}</h4></a>
           {% else %}
+          <a name="{{session.title}}">
           <h4 class="session-title"><font style="color:SteelBlue;">{{session.title}}</font></h4>
+          </a>
           {% endif %}
 		  {% if session.chair %}
             <h4 style="margin-top:4px;"><font style="color:SteelBlue;">Chair: {{session.chair}}</font></h4>
