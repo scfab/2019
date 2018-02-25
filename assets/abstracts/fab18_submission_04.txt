@@ -1,6 +1,5 @@
 Blockchain-like protocols are flourishing. Maybe not surpris-
 ingly, the differences among these protocols are often subtle
-
 and difficult to understand. More importantly, it is often
 unclear what the weaknesses of each of these protocols are
 and how easily they can be attacked. The goal of this paper is
@@ -14,10 +13,8 @@ Towards reaching our goal, we first precisely define the
 problem that these protocols seek to solve. Then we propose
 a unifying scheme that captures, at a high level, the behavior
 of any blockchain protocol. Interestingly, this scheme is also
-
 sufficiently low level to highlight the important differences be-
 tween these protocols. We show that blockchain-like protocols
-
 can be differentiated according to their degree of indulgence—
 i.e., tolerance towards node misbehavior or towards network
 asynchrony—which translates into the different vulnerabilities
