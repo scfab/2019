@@ -55,7 +55,12 @@
                 <h4 class="talk-title">{{ talk.title }}</h4>
                 {% endif %}
                 {% assign authors = talk.authors | join: ', ' %}
-                <p class="course-meta" style="line-height:18px;">{{authors}}</p>
+                <p class="course-meta" style="line-height:18px;">{{authors}}
+                {% if talk.urls.abs %}
+                <br>(<a href="{{talk.urls.abs}}"><font
+                        style="color:SteelBlue;">abstract</font></a>)
+                {% endif %}
+                </p>
               </li>
               {% endfor %}
             </ul>
