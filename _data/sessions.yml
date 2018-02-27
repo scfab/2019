@@ -2,11 +2,13 @@ day1:
 - end: 9:15 AM
   start: 9:00 AM
   talks: []
-  title: Introductions 
+  title: Introductions
 - end: 10:15 AM
   start: 9:15 AM
-  talks: []
-  title: Keynote
+  talks:
+  - authors:
+    - 'Charalampos (Babis) Papamanthou, University of Maryland, College Park'
+  title: 'Keynote'
 - end: 10:45 AM
   start: 10:15 AM
   talks: []
@@ -19,7 +21,7 @@ day1:
     - Andrew Lowe (PicoLabs)
     - Salil S. Kanhere (UNSW Sydney)
     title: 'Experiences from the Field: Unify Rewards - A Cryptocurrency Loyalty Program'
-    urls: 
+    urls:
         abs: assets/abstracts/fab18_submission_05.txt
   - authors:
     - Mads Frederik Madsen (IT University of Copenhagen)
@@ -46,7 +48,7 @@ day1:
   title: Lunch
 - end: 2:30 PM
   start: 1:30 PM
-  panel: 
+  panel:
   - name: "Leonard Adleman"
     affiliation: "Distinguished Professor of Computer Science, USC Viterbi School of Engineering"
   - name: "Ninou Sarwono"
@@ -66,7 +68,7 @@ day1:
     - Matej Pavlovic (EPFL)
     - Dragos-Adrian Seredinschi (EPFL)
     title: 'Blockchain Protocols: The Adversary is in the Details'
-    urls: 
+    urls:
         abs: assets/abstracts/fab18_submission_04.txt
   - authors:
     - Percival Lucena (IBM Research)
