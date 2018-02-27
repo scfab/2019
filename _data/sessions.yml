@@ -51,6 +51,8 @@ day1:
   panel:
   - name: "Leonard Adleman"
     affiliation: "Distinguished Professor of Computer Science, USC Viterbi School of Engineering"
+  - name: "Steve Beauregard"
+    affiliation: "Partner and Chief Revenue Officer, Bloq Inc"
   - name: "Ninou Sarwono"
     affiliation: "Emerging Technology Lead, Capital Group"
   - name: "Nick Vyas"
