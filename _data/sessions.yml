@@ -3,12 +3,14 @@ day1:
   start: 9:00 AM
   talks: []
   title: Introductions
+  chair: 'Bhaskar Krishnamachari'
 - end: 10:15 AM
   start: 9:15 AM
   talks:
   - authors:
     - 'Charalampos (Babis) Papamanthou, University of Maryland, College Park'
   title: 'Keynote'
+  chair: 'Shahram Ghandeharizadeh'
 - end: 10:45 AM
   start: 10:15 AM
   talks: []
