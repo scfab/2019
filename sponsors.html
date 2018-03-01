@@ -16,10 +16,12 @@ layout: default
           </header>
           <div class="section-content">
             <ul class="list-links">
-              <li><h4><a href="#goldsponsors">Gold sponsors</a></h4></li>
-			<li><h4><a href="#silversponsors">Silver sponsors</a></h4></li>
+              <li><h4><a href="#univsponsors">University sponsors</a></h4></li>
+              <!--
+              <li><h4><a href="#silversponsors">Silver sponsors</a></h4></li>
               <li><h4><a href="#bronzesponsors">Bronze sponsors</a></h4></li>
-			  <li><h4><a href="#scholarshipsponsors">Student scholarship sponsors</a></h4></li>
+              <li><h4><a href="#scholarshipsponsors">Student scholarship sponsors</a></h4></li>
+              -->
             </ul>
           </div><!-- /.section-content -->
         </section><!-- /.events-small -->
@@ -32,6 +34,11 @@ layout: default
             <p>
             </p>
 
+            <a id="univsponsors"><h2>University sponsors</h2></a>
+              {% include usc-sponsors.html %}
+            <br>
+            <!--
+            <br>
             <a id="goldsponsors"><h2>Gold sponsors</h2></a>
               {% include gold-sponsors.html %}
             <br>
@@ -47,6 +54,7 @@ layout: default
 			<a id="scholarshipsponsors"><h2>Student scholarship sponsors</h2></a>
               {% include student-support.html %}
             <br>
+            -->
           </div><!-- /.section-content -->
         </section><!-- /.main-content -->
       </div><!-- /.col-md-6 -->
