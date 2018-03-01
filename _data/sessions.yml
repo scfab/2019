@@ -41,6 +41,7 @@ day1:
     urls:
         abs: assets/abstracts/fab18_submission_07.txt
   title: 'Technical Session 1'
+  chair: 'Sumita Barahmand'
   remarks: 'Each presentation is 25 minutes long + 5 minutes for questions'
 - end: 1:30 PM
   start: 12:15 PM
@@ -58,6 +59,7 @@ day1:
   - name: "Nick Vyas"
     affiliation: "Executive Director, Center for Global Supply Chain Management, USC Marshall School of Business"
   title: "Panel: Future of Blockchain"
+  chair: 'Bhaskar Krishnamachari'
 - end: 3:00 PM
   start: 2:30 PM
   talks: []
@@ -88,6 +90,7 @@ day1:
     urls:
         abs: assets/abstracts/fab18_submission_09.txt
   title: 'Technical Session 2'
+  chair: 'Li Xiong'
   remarks: 'Each presentation is 25 minutes long + 5 minutes for questions'
 - end: 5:30 PM
   start: 5:00 PM
