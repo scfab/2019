@@ -25,6 +25,7 @@ day1:
     title: 'Experiences from the Field: Unify Rewards - A Cryptocurrency Loyalty Program'
     urls:
         abs: assets/abstracts/fab18_submission_05.txt
+        paper: assets/papers/fab18_submission_05.pdf
   - authors:
     - Mads Frederik Madsen (IT University of Copenhagen)
     - Mikkel Gaub (IT University of Copenhagen)
@@ -35,6 +36,7 @@ day1:
     title: 'Collaboration among Adversaries:  Distributed Workflow Execution on a Blockchain'
     urls:
         abs: assets/abstracts/fab18_submission_06.txt
+        paper: assets/papers/fab18_submission_06.pdf
   - authors:
     - Tamraparni Dasu (AT&T Labs-Research)
     - Yaron Kanza (AT&T Labs-Research)
@@ -42,6 +44,7 @@ day1:
     title: 'Unchain Your Blockchain'
     urls:
         abs: assets/abstracts/fab18_submission_07.txt
+        paper: assets/papers/fab18_submission_07.pdf
   title: 'Technical Session 1'
   chair: 'Li Xiong (Emory)'
   remarks: 'Each presentation is 25 minutes long + 5 minutes for questions'
@@ -76,6 +79,7 @@ day1:
     title: 'Blockchain Protocols: The Adversary is in the Details'
     urls:
         abs: assets/abstracts/fab18_submission_04.txt
+        paper: assets/papers/fab18_submission_04.pdf
   - authors:
     - Percival Lucena (IBM Research)
     - Alécio P. D. Binotto (IBM Research)
@@ -84,6 +88,7 @@ day1:
     title: 'A Case Study for Grain Quality Assurance Tracking based on a Blockchain Business Network'
     urls:
         abs: assets/abstracts/fab18_submission_08.txt
+        paper: assets/papers/fab18_submission_08.pdf
   - authors:
     - Yize Chen (University of Washington)
     - Quanlai Li (University of California, Berkeley)
@@ -91,6 +96,7 @@ day1:
     title: 'Towards Trusted Social Networks with Blockchain Technology'
     urls:
         abs: assets/abstracts/fab18_submission_09.txt
+        paper: assets/papers/fab18_submission_09.pdf
   title: 'Technical Session 2'
   chair: 'Sumita Barahmand (Microsoft)'
   remarks: 'Each presentation is 25 minutes long + 5 minutes for questions'

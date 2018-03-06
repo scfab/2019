@@ -60,6 +60,10 @@
                 <br>(<a href="{{talk.urls.abs}}"><font
                         style="color:SteelBlue;">abstract</font></a>)
                 {% endif %}
+                {% if talk.urls.paper %}
+                (<a href="{{talk.urls.paper}}"><font
+                        style="color:SteelBlue;">paper</font></a>)
+                {% endif %}
                 </p>
               </li>
               {% endfor %}
