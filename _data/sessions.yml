@@ -96,7 +96,16 @@ day1:
   remarks: 'Each presentation is 25 minutes long + 5 minutes for questions'
 - end: 5:30 PM
   start: 5:00 PM
-  talks: []
+  talks:
+  - authors:
+    - Zhiyuan Jiang, Postdoc, Tsinghua University
+    title: 'SENATE: An Open-Access Byzantine Consensus Protocol in Wireless Networks'
+  - authors:
+    - Victoria Silchenko, Founder, Metropole Capital Group
+    title: 'New Kids on the Block(chain): ICO vs IPO'
+  - authors:
+    - Christopher Dro, Co-founder, Async
+    title: 'Running IoT Applications on a Blockchain'
   title: Lightning Round Talks
 - end: 7:30 PM
   start: 5:30 PM
