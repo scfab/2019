@@ -7,8 +7,7 @@ day1:
 - end: 10:15 AM
   start: 9:15 AM
   talks:
-  - authors:
-    - 'Charalampos (Babis) Papamanthou, University of Maryland, College Park'
+  - title: 'Charalampos (Babis) Papamanthou, University of Maryland, College Park'
   title: 'Keynote'
   url:  keynotes.html
   chair: 'Shahram Ghandeharizadeh (USC)'
