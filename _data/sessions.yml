@@ -66,8 +66,20 @@ day1:
     affiliation: "Executive Director, Center for Global Supply Chain Management, USC Marshall School of Business"
   title: "Panel: Future of Blockchain"
   chair: 'Bhaskar Krishnamachari (USC)'
-- end: 3:00 PM
+- end: 2:45 PM
   start: 2:30 PM
+  talks: []
+  title: "Coffee Break"
+- end: 3:00 PM
+  start: 2:45 PM
+  talks:
+  - authors:
+    - Rahilla Zafar, Managing Director, ConsenSys
+    title: 'Democratizing Real Estate with Blockchain (Demo and Presentation)'
+  title: "Sponsored Session"
+  chair: 'Heidi Pease (LA Blockchain Lab and Proof of Art)'
+- end: 3:30 PM
+  start: 3:00 PM
   talks: []
   title: "Coffee Break"
 - end: 5:00 PM
@@ -113,7 +125,11 @@ day1:
   - authors:
     - Christopher Dro, Co-founder, Async
     title: 'Running IoT Applications on a Blockchain'
+  - authors:
+    - Michael Zyda, Director, USC GamePipe Laboratory
+    title: 'Blockchain in the Cultural Industries'
   title: Lightning Round Talks
+  chair: 'Dr. Erick Moen, USC CCI'
 - end: 7:30 PM
   start: 5:30 PM
   talks: []
