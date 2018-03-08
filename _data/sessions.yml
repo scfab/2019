@@ -1,4 +1,7 @@
 day1:
+- start: 8:30 AM
+  talks: []
+  title: 'Registration'
 - end: 9:15 AM
   start: 9:00 AM
   talks: []
@@ -135,5 +138,50 @@ day1:
   title: Social hour
 - end: 7:30 PM
   start: 6:00 PM
-  talks: []
+  talks:
+  - authors:
+    - Martin Martinez (USC)
+    title: 'Improving MOOCs using Blockchain'
+  - authors:
+    - Kwame Wright (USC)
+    title: 'Proof of Homework: An Incentive System for Improving Academic Performance in the Classroom'
+  - authors:
+    - Ritika Barakol (USC)
+    - Rebecca Lee (USC)
+    title: 'Towards the Decentralization of Traffic Rules'
+  - authors:
+    - Qinjia Huang (USC)
+    - Qi Trey Zhong (USC)
+    title: 'Blockchain for health insurance'
+  - authors:
+    - Sarah Clayton (USC)
+    - Kien Nguyen (USC)
+    title: 'Reverse Crowdfunding and Intellectual Property Management for Music Producers'
+  - authors:
+    - Hieu Nguyen (USC)
+    title: 'Protocols for Generating Random Values in Distributed P2P'
+  - authors:
+    - Yuchen Yan (USC)
+    - Zhifeng Lin (USC)
+    title: 'Digital Assets Leasing Service Automation with Blockchain Technology'
+  - authors:
+    - Sulagna Mukherjee (USC)
+    - Basileal Imana (USC)
+    title: 'Ruling out rogue IoT devices from P2P network'
+  - authors:
+    - Eduard Sanou (USC)
+    - Borys Gurtovyi (USC)
+    title: 'Scaling cryptocurrency by zone leveling'
+  - authors:
+    - Bhavya Gulati (USC)
+    - Ritesh Ahuja (USC)
+    title: 'Blockchain Forensics'
+  - authors:
+    - Jun Tang (USC)
+    - Hanpeng Liu (USC)
+    title: 'Organic Food with Blockchain'
+  - authors:
+    - Farzad Salimi Jazi (USC)
+    - Shuo Wang  (USC)
+    title: 'Decentralized reward-driven solution to boost engagements in organizations and micro-communities'
   title: Poster Session
