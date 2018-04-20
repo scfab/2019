@@ -29,6 +29,7 @@ day1:
     urls:
         abs: assets/abstracts/fab18_submission_05.txt
         paper: assets/papers/fab18_submission_05.pdf
+        video: https://youtu.be/hbqWJhbybkk
   - authors:
     - Mads Frederik Madsen (IT University of Copenhagen)
     - Mikkel Gaub (IT University of Copenhagen)
@@ -40,6 +41,7 @@ day1:
     urls:
         abs: assets/abstracts/fab18_submission_06.txt
         paper: assets/papers/fab18_submission_06.pdf
+        video: https://youtu.be/k5RpNaQU7I0
   - authors:
     - Tamraparni Dasu (AT&T Labs-Research)
     - Yaron Kanza (AT&T Labs-Research)
@@ -48,6 +50,7 @@ day1:
     urls:
         abs: assets/abstracts/fab18_submission_07.txt
         paper: assets/papers/fab18_submission_07.pdf
+        video: https://youtu.be/77r2CvahZGQ
   title: 'Technical Session 1'
   chair: 'Li Xiong (Emory)'
   remarks: 'Each presentation is 25 minutes long + 5 minutes for questions'
@@ -95,6 +98,7 @@ day1:
     urls:
         abs: assets/abstracts/fab18_submission_04.txt
         paper: assets/papers/fab18_submission_04.pdf
+        video: https://youtu.be/JFa17L2AMU0
   - authors:
     - Percival Lucena (IBM Research)
     - Alécio P. D. Binotto (IBM Research)
@@ -104,6 +108,7 @@ day1:
     urls:
         abs: assets/abstracts/fab18_submission_08.txt
         paper: assets/papers/fab18_submission_08.pdf
+        video: https://youtu.be/PU4opcXdtDc
   - authors:
     - Yize Chen (University of Washington)
     - Quanlai Li (University of California, Berkeley)
@@ -112,6 +117,7 @@ day1:
     urls:
         abs: assets/abstracts/fab18_submission_09.txt
         paper: assets/papers/fab18_submission_09.pdf
+        video: https://youtu.be/4OtXkoQLLW4
   title: 'Technical Session 2'
   chair: 'Sumita Barahmand (Microsoft)'
   remarks: 'Each presentation is 25 minutes long + 5 minutes for questions'

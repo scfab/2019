@@ -64,6 +64,10 @@
                 (<a href="{{talk.urls.paper}}"><font
                         style="color:SteelBlue;">paper</font></a>)
                 {% endif %}
+                {% if talk.urls.video%}
+                (<a href="{{talk.urls.video}}"><font
+                        style="color:SteelBlue;">video</font></a>)
+                {% endif %}
                 </p>
               </li>
               {% endfor %}
