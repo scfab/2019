@@ -7,8 +7,12 @@ day1:
   talks: []
   title: Introductions
   chair: 'Bhaskar Krishnamachari (USC)'
+  urls:
+      video: https://youtu.be/DxACJYWcoMY
 - end: 10:15 AM
   start: 9:15 AM
+  urls:
+      video: https://youtu.be/Q0NkTW-Zo2Q
   talks:
   - title: 'Charalampos (Babis) Papamanthou, University of Maryland, College Park'
   title: 'Keynote'
@@ -81,6 +85,9 @@ day1:
   - authors:
     - Rahilla Zafar, Managing Director, ConsenSys
     title: 'Democratizing Real Estate with Blockchain (Demo and Presentation)'
+    urls:
+        video: https://youtu.be/77r2CvahZGQ
+        abs:    tmp
   title: "Sponsored Session"
   chair: 'Heidi Pease (LA Blockchain Lab and Proof of Art)'
 - end: 3:30 PM
@@ -137,6 +144,8 @@ day1:
     - Michael Zyda, Director, USC GamePipe Laboratory
     title: 'Blockchain in the Cultural Industries'
   title: Lightning Round Talks
+  urls:
+      video: https://youtu.be/KCgdY4CGRnc
   chair: 'Erick Moen (USC CCI)'
 - end: 7:30 PM
   start: 5:30 PM

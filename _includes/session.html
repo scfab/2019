@@ -38,6 +38,13 @@
             <h4 style="margin-top:4px;"><font
                     style="color:black;">{{session.remarks}}</font></h4>
           {% endif %}
+          <p class="course-meta" style="line-height:18px;">
+          {% if session.urls.video %}
+          (<a href="{{session.urls.video}}">
+                  <font
+                  style="color:SteelBlue;">video</font></a>)
+          {% endif %}
+          </p>
           <div class="details">
             {% if session.talks %}
             <ul class="session-list">
@@ -56,17 +63,17 @@
                 {% endif %}
                 {% assign authors = talk.authors | join: ', ' %}
                 <p class="course-meta" style="line-height:18px;">{{authors}}
+                {% if talk.urls.video%}
+                <br>(<a href="{{talk.urls.video}}"><font
+                        style="color:SteelBlue;">video</font></a>)
+                {% endif %}
                 {% if talk.urls.abs %}
-                <br>(<a href="{{talk.urls.abs}}"><font
+                (<a href="{{talk.urls.abs}}"><font
                         style="color:SteelBlue;">abstract</font></a>)
                 {% endif %}
                 {% if talk.urls.paper %}
                 (<a href="{{talk.urls.paper}}"><font
                         style="color:SteelBlue;">paper</font></a>)
-                {% endif %}
-                {% if talk.urls.video%}
-                (<a href="{{talk.urls.video}}"><font
-                        style="color:SteelBlue;">video</font></a>)
                 {% endif %}
                 </p>
               </li>
