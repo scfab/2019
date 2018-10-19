@@ -19,7 +19,7 @@ If you don't have git installed in your computer, please follow the instructions
 
 From your unix terminal window use the following command to check out the repository
 
-> git clone https://github.com/scfab/2018.git
+> git clone https://github.com/scfab/scfab2019.git
 
 A directory called 2018 will be created which houses the repository.
 
