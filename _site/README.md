@@ -1,74 +1,68 @@
-# [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
+# FAB 2019 Website
 
-[Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+## Instructions for making changes to website
 
-## Preview
+### Step 1: Github account
 
-[![Agency Preview](https://startbootstrap.com/assets/img/templates/agency.jpg)](https://blackrockdigital.github.io/startbootstrap-agency/)
+If you don't have a github account, please create one at https://github.com
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
+### Step 2: Access to repository
 
-## Status
+If you are new to github or already have an account, you need permission to work in the repository. Ask your administrator
+to provide permissions.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-agency.svg)](https://www.npmjs.com/package/startbootstrap-agency)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-agency.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-agency)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency?type=dev)
+### Step 3: Install Git in your laptop/computer
 
-## Download and Installation
+If you don't have git installed in your computer, please follow the instructions here.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/agency/)
-* Install via npm: `npm i startbootstrap-agency`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-agency)
+### Step 4: Checkout repository
 
-## Usage
+From your unix terminal window use the following command to check out the repository
 
-### Basic Usage
+> git clone https://github.com/scfab/scfab2019.git
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+A directory called 2018 will be created which houses the repository.
 
-### Advanced Usage
+### Step 5: Edit the repository
 
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+You can edit the pages or add new pages as you like
 
-#### Gulp Tasks
+### Step 6: Committing to the repository
 
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
+In order to know the list of newly added files or the modified files do
 
-You must have npm and Gulp installed globally on your machine in order to use these features.
+> git status
 
-## Troubleshooting and Help
+Now do git add for the untracked files by using the following command
 
-Start Bootstrap has a public Slack channel which is a great place to ask questions about this template and all things related to Start Bootstrap.
+> git add <filename>
 
-**[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
+You should use git commit to push the changes. Note it will commit to the local repository only
 
-## Bugs and Issues
+> git commit -m "Your Message"
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+### Step 7: Push the repository
 
-## About
+You can push the changes to main branch by doing the following
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+> git push
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
+After these only the pages will show up in the website
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+### Step 8: For previewing the site
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+If you would like to preview the site before committing, you need to install Jekyll. You can follow the instructions at http://jekyllrb.com/  
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+> gem install jekyll
 
-## Copyright and License
+Once you have installed Jekyll, cd to your repository directory and in a separate window do the following
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+> jekyll serve --watch
+
+This will not terminate. In another terminal window, you can edit or change the files in the repository.
+
+In order to preview the site, open up a browser and in it open the url
+
+http://localhost:4000/
+
+All you have to is keep refreshing to get the new site previewed before you do the commit.
