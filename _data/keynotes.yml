@@ -1,37 +1,15 @@
-papamanthou:
-  name: 'Charalampos Papamanthou (UMD, College Park)'
-  title: 'Applications of Verifiable Computation in Blockchains and Cryptocurrencies'
-  abstract: 'Decentralized cryptocurrencies and smart contracts (e.g.,
-  Bitcoin and Ethereum) promise to revolutionize financial industries,
-  forever changing the way money is transferred. They support monetary
-  transactions based on programmable logic between users without
-  requiring to trust a central authority (e.g., a government or a bank).
-  At the heart of their design lies the blockchain, a distributed data
-  structure that is stored and agreed upon by the participating parties
-  and which is readily accessible to anyone in the world. However, due
-  to its size and public nature, several scalability, security and
-  privacy concerns have emerged. In this talk I will show how we can use
-  protocols for verifiable computation (cryptographic techniques that
-  enable an untrusted party to efficiently prove the validity of a
-  statement to a verifier), to address these problems.'
-  bio1: 'Charalampos (Babis) Papamanthou is an assistant professor of
-  Electrical and Computer Engineering at the University of Maryland,
-  College Park, where he joined in 2013 after a postdoc at UC Berkeley.
-  At Maryland, he is also affiliated with the Institute for Advanced
-  Computer Studies (UMIACS), where he is a member of the Maryland
-  Cybersecurity Center (MC2). He works on applied cryptography and
-  computer security---and especially on technologies, systems and theory
-  for secure and private cloud computing. While at College Park, he
-  received the NSF CAREER award, the Google Faculty Research Award, the
-  Yahoo! Faculty Research Engagement Award, the NetApp Faculty
-  Fellowship, the 2013 UMD Invention of the Year Award, the 2014 Jimmy
-  Lin Award for Invention and the George Corcoran Award for Excellence
-  in Teaching. His research is currently funded by federal agencies
-  (NSF, NIST and NSA) and by the industry (Google, Yahoo!, NetApp and
-  Amazon). His PhD is in Computer Science from Brown University (2011)
-  and he also holds an MSc in Computer Science from the University of
-  Crete (2005), where he was a member of ICS-FORTH. His work has
-  received over 3,000 citations and he has published in venues and
-  journals spanning theoretical and applied cryptography, systems and
-  database security, graph algorithms and visualization and operations
-  research.'
+amrelabbadi:
+  name: 'AMR EL ABBADI, DEPARTMENT OF COMPUTER SCIENCE, UNIVERSITY OF CALIFORNIA, SANTA BARBARA.'
+  title: 'DEMYSTIFYING BLOCKCHAINS: FOUNDATIONS, CHALLENGES AND OPPORTUNITIES'
+  abstract: 'TBA'
+  bio1: 'Amr El Abbadi is a Professor of Computer Science at the University of California, Santa Barbara. He received his B. Eng. from Alexandria University, Egypt, and his Ph.D. from Cornell University. Prof. El Abbadi is an ACM Fellow, AAAS Fellow, and IEEE Fellow. He was Chair of the Computer Science Department at UCSB from 2007 to 2011. He has served as a journal editor for several database journals, including, The VLDB Journal, IEEE Transactions on Computers and The Computer Journal. He has been Program Chair for multiple database and distributed systems conferences. He currently serves on the executive committee of the IEEE Technical Committee on Data Engineering (TCDE) and was a board member of the VLDB Endowment from 2002 to 2008. In 2007, Prof. El Abbadi received the UCSB Senate Outstanding Mentorship Award for his excellence in mentoring graduate students. In 2013, his student, Sudipto Das received the SIGMOD Jim Gray Doctoral Dissertation Award. Prof. El Abbadi is also a co-recipient of the Test of Time Award at EDBT/ICDT 2015. He has published over 300 articles in databases and distributed systems and has supervised over 35 PhD students.'
+ingoweber:
+    name: 'INGO WEBER, DATA61, COMMONWEALTH SCIENTIFIC AND INDUSTRIAL RESEARCH ORGANISATION (CSIRO), SYDNEY.'
+    title: 'TBD'
+    abstract: 'TBA'
+    bio1: 'Dr Ingo Weber is a Principal Research Scientist & Team Leader of the Architecture & Analytics Platforms (AAP) team at Data61, CSIRO in Sydney. In addition he is a Conjoint Associate Professor at UNSW Australia and an Adjunct Associate Professor at Swinburne University. He has published around 100 refereed papers and two books. A third book, “Architecture for Blockchain Applications”, will be published by Springer in late 2018. The AAP team led by Dr Weber tackles major challenges around applications based on Blockchain and Distributed Ledger Technologies, approaching the topic from the areas of software architecture and engineering, business process management, and dependability.'
+stephanie:
+    name: 'DR. STEPHANIE HURDER, PARTNER AND FOUNDING ECONOMIST OF PRYSM GROUP.'
+    title: 'ECONOMICS AND BLOCKCHAIN: BEYOND TOKENS'
+    abstract: 'In this talk, Dr. Stephanie Hurder will discuss why a holistic approach to economic design -- including insights from fields as diverse as social choice theory, game theory, contract theory, and market design -- is essential for blockchain organizations. Dr. Hurder will discuss how major tech companies such as Microsoft, Google, and eBay have leveraged these insights for over a decade to improve the performance of their marketplaces, and discuss areas of blockchain and economics that are ripe for future innovation.'
+    bio1: 'Dr. Stephanie Hurder is a Partner and Founding Economist of Prysm Group, a firm that specializes in economic and governance design for distributed ledger-based projects. She is a frequent keynote speaker and lecturer on economics and DLT, including Consensus, SXSW, Polychain Capital, and the IBM Blockchain Accelerator. Her research on the economics of blockchain has been presented at Harvard, Stanford, UC Berkeley, DARPA, and the Federal Reserve of Cleveland. Dr. Hurder is an advisor to blockchain projects at the World Economic Forum, a Visiting Scholar at the Center for Cyber-Physical Systems and the Internet of Things at USC, and a contributor to the MIT Cryptoeconomics Lab blog. Prior to co-founding Prysm Group, Dr. Hurder held economics research positions at MIT Sloan and Merrill Lynch. While a management consultant at the Boston Consulting Group, Dr. Hurder was selected as an Ambassador to the BCG Henderson Institute and co-authored multiple publications on organizational effectiveness and design. Dr. Hurder holds an AB in Mathematics Phi Beta Kappa and magna cum laude, an AM in Economics, and a PhD in Business Economics from Harvard University.'
