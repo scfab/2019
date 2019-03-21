@@ -51,16 +51,16 @@ day1:
 - end: 12:35 PM
   start: 11:50 PM
   panel:
-  - name: "Ajay Dholakia"
-    affiliation: "Lenovo Data Center Group"
-  - name: "David Galindo"
-    affiliation: "FETCH.AI"
-  - name: "Eric Diehl"
-    affiliation: "SONY"
-  - name: "Gaurav Chawla"
-    affiliation: "DELL"
-  - name: "Zak Cole"
-    affiliation: "Whiteblock"
+  - name: "Gaurav Chawla (DELL)"
+    url: chawla.html
+  - name: 'Zak Cole (WHITEBLOCK)'
+    url: cole.html
+  - name: "Ajay Dholakia (Lenovo Data Center Group)"
+    url: dholakia.html
+  - name: "Eric Diehl (SONY)"
+    url: diehl.html
+  - name: "David Galindo (FETCH.AI)"
+    url: galindo.html
   title: "Panel: Future of Blockchain"
 - end: 1:20 PM
   start: 12:35 PM

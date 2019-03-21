@@ -84,7 +84,7 @@
             <ul class="session-list">
               {% for panelist in session.panel %}
               <li>
-                <h4 class="talk-title">{{ panelist.name }}</h4>
+                <a href="{{panelist.url}}"><h4 class="talk-title"style="color:red;">{{ panelist.name }}</h4></a>
                 <p class="course-meta"
                 style="line-height:18px;">{{ panelist.affiliation }}</p>
               </li>
