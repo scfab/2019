@@ -23,12 +23,12 @@ day1:
   - authors: Erez Waisbard (Nokia Bell Labs)
     title: 'Keynote 2:   Blocks of Trust – using the Blockchain to build trust in IoT'
   title: 'Technical Session 1'
-- end: 10:15 AM
+- end: 10:20 AM
   start: 10:05 AM
   talks: []
   title: "Coffee Break"
-- end: 11:50 PM
-  start: 10:15 AM
+- end: 12:00 PM
+  start: 10:20 AM
   talks:
   - authors:
     - Gil Perez (SAP)
@@ -48,8 +48,12 @@ day1:
     - Stephanie Hurder (Prysm Group)
     title: 'Keynote 4:  Economics and Blockchain: Beyond Token'
   title: 'Technical Session 2'
-- end: 12:35 PM
-  start: 11:50 PM
+- end: 1:00 PM
+  start: 12:00 PM
+  talks: []
+  title: Lunch
+- end: 1:45 PM
+  start: 1:00 PM
   panel:
   - name: "Gaurav Chawla (DELL)"
     url: chawla.html
@@ -62,12 +66,12 @@ day1:
   - name: "David Galindo (FETCH.AI)"
     url: galindo.html
   title: "Panel: Future of Blockchain"
-- end: 1:20 PM
-  start: 12:35 PM
+- end: 2:00 PM
+  start: 1:45 PM
   talks: []
-  title: Lunch
-- end: 3:00 PM
-  start: 1:20 PM
+  title: "Coffee Break"
+- end: 3:40 PM
+  start: 2:00 PM
   talks:
   - authors:
     - Schahram Dustdar (Distributed Systems Group, TU Wien)
@@ -82,12 +86,12 @@ day1:
     -  Ingo Weber (CSIRO)
     title: 'Keynote 6:  Software Architecture and Engineering for Blockchain Applications'
   title: 'Technical Session 3'
-- end: 3:15 PM
-  start: 3:00 PM
+- end: 3:50 PM
+  start: 3:40 PM
   talks: []
   title: "Coffee Break"
-- end: 4:15 PM
-  start: 3:15 PM
+- end: 4:55 PM
+  start: 3:50 PM
   talks:
   - authors:
     - Haiying Jia (MIT), Roar Adland (MIT)
@@ -97,7 +101,7 @@ day1:
     title: 'Keynote 7:  Bringing Enterprise to Blockchain—Moving from
 Science Experiment to Business Mainstream'
   title: 'Technical Session 4'
-- end: 4:30 PM
-  start: 4:15 PM
+- end: 5:00 PM
+  start: 4:55 PM
   talks: []
   title: "Wrap"
