@@ -26,8 +26,9 @@ gilperez:
   investor and senior executive in 5 companies which were acquired. Three of the five companies were acquired by SAP AG. Gil is based in Palo Alto, CA'
 ingoweber:
     name: 'INGO WEBER, DATA61, COMMONWEALTH SCIENTIFIC AND INDUSTRIAL RESEARCH ORGANISATION (CSIRO), SYDNEY.'
-    title: 'TBD'
-    abstract: 'TBA'
+    title: 'Software Architecture and Engineering for Blockchain Applications'
+    abstract: 'Blockchain is a novel distributed ledger technology, which has attracted a wide range of interests for building the next generation of applications in almost all industry sectors. The broad range of applications is made possible by smart contracts, which transform a blockchain system into a general compute platform.
+For this new paradigm and technology platform, we investigated its impact on software architecture and engineering practices. Our starting point for this investigation was the question “what do architects and engineers need to know about blockchain to make good use of it?” In this keynote, I will cover the main insights from this work, recently summarized in the book “Architecture for Blockchain Applications”, Springer, 2019.'
     bio1: 'Dr Ingo Weber is a Principal Research Scientist & Team Leader of the Architecture & Analytics Platforms (AAP) team at Data61, CSIRO in Sydney. In addition he is a Conjoint Associate Professor at UNSW Australia and an Adjunct Associate Professor at Swinburne University. He has published around 100 refereed papers and two books. A third book, “Architecture for Blockchain Applications”, will be published by Springer in late 2018. The AAP team led by Dr Weber tackles major challenges around applications based on Blockchain and Distributed Ledger Technologies, approaching the topic from the areas of software architecture and engineering, business process management, and dependability.'
 sarabjeet:
   name: 'SARABJEET (JAY) SINGH, SENIOR DIRECTOR OF PRODUCTS AT ORACLE.'
