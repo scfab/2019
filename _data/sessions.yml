@@ -66,6 +66,8 @@ day1:
   - name: "David Galindo (FETCH.AI)"
     url: galindo.html
   title: "Panel: Future of Blockchain"
+  chair: 'Raghu Nambiar (AMD)'
+  url: raghu.html
 - end: 2:00 PM
   start: 1:45 PM
   talks: []

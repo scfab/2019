@@ -29,7 +29,7 @@
           </a>
           {% endif %}
 		  {% if session.chair %}
-            <h4 style="margin-top:4px;"><font style="color:SteelBlue;">Chair: {{session.chair}}</font></h4>
+            <a href="{{session.url}}"><h4 style="margin-top:4px;"><font style="color:SteelBlue;">Chair: {{session.chair}}</font></h4></a>
 		  {% endif %}
           {% if session.location %}
             <h4 style="margin-top:4px;"><font style="color:black;">Location: {{session.location}}</font></h4>
@@ -84,7 +84,7 @@
             <ul class="session-list">
               {% for panelist in session.panel %}
               <li>
-                <a href="{{panelist.url}}"><h4 class="talk-title"style="color:red;">{{ panelist.name }}</h4></a>
+                <a href="{{panelist.url}}"><h4 class="talk-title">{{ panelist.name }}</h4></a>
                 <p class="course-meta"
                 style="line-height:18px;">{{ panelist.affiliation }}</p>
               </li>
