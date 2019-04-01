@@ -63,6 +63,7 @@
                 {% endif %}
                 {% assign authors = talk.authors | join: ', ' %}
                 <p class="course-meta" style="line-height:18px;">{{authors}}
+                <br><font style="color:SteelBlue;">{{ talk.duration }}</font>
                 {% if talk.urls.video%}
                 <br>(<a href="{{talk.urls.video}}"><font
                         style="color:SteelBlue;">video</font></a>)
