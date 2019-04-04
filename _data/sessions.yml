@@ -4,8 +4,11 @@ day1:
   title: 'Registration'
 - end: 8:15 AM
   start: 8:00 AM
-  talks: []
-  title: Introductions
+  talks:
+  - authors:
+    - Bhaskar Krishnamachari (University of Southern California)
+    - Shahram Ghandeharizadeh (University of Southern California)
+    title: 'Introductions'
 - end: 10:05 AM
   start: 8:15 AM
   talks:
@@ -25,6 +28,7 @@ day1:
   - authors: Erez Waisbard (Nokia Bell Labs)
     title: 'Keynote 2:   Blocks of Trust – using the Blockchain to build trust in IoT'
     duration: 'Duration: 40 mins'
+  chair: 'Tijs Slaats (University of Copenhagen)'
   title: 'Technical Session 1'
 - end: 10:20 AM
   start: 10:05 AM
@@ -54,6 +58,7 @@ day1:
     title: 'Keynote 4:  Economics and Blockchain: Beyond Token'
     duration: 'Duration: 40 mins'
   title: 'Technical Session 2'
+  chair: 'Schahram Dustdar (TU Wien)'
 - end: 1:00 PM
   start: 12:00 PM
   talks: []
@@ -97,6 +102,7 @@ day1:
     title: 'Keynote 6:  Software Architecture and Engineering for Blockchain Applications'
     duration: 'Duration: 40 mins'
   title: 'Technical Session 3'
+  chair: 'Gowri Sankar Ramachandran (University of Southern California)'
 - end: 3:50 PM
   start: 3:40 PM
   talks: []
@@ -114,6 +120,7 @@ day1:
 Science Experiment to Business Mainstream'
     duration: 'Duration: 35 mins'
   title: 'Technical Session 4'
+  chair: TBD
 - end: 5:00 PM
   start: 4:55 PM
   talks: []
